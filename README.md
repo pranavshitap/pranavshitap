@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pranavshitap
-- 👀 I’m interested in IoT and Machine Learning
-- 🌱 I’m currently learning Machine Learning with Python
-- 💞️ I’m looking to collaborate on Docker containers for Raspberry Pi
-- 📫 https://www.linkedin.com/in/pranav-shitap
+- Hi, I’m @pranavshitap
+- Research & Development @ TCS CoE | turning ideas into PoCs using Python, AI, and modern frameworks.
+- https://www.linkedin.com/in/pranav-shitap
 
 <!---
 pranavshitap/pranavshitap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
